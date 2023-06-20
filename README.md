@@ -1,5 +1,8 @@
 # ML_for_networks
 
+## Résultats au 07/06/2023 (challenge en cours) : 
+> **2e position avec un MAE de 0.0025**
+
 A compléter :
 * Projet dans le cadre du module NET4550 de Télécom Sudparis
 * Egalement un challenge public de l'ENS : [lien](https://challengedata.ens.fr/participants/challenges/89/)
